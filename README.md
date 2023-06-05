@@ -2,23 +2,39 @@
 
 <div align=center>
 
-### Hi there 👋
+## 🎮gamzachips🎮 
+  
+<br/>
 
-##### 👩🏻‍💻 now I'm studying...
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+##### I'm studying to become a game programmer
+  
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=black"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=plastic&logo=unrealengine&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/UnrealEngine-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ein1013)](https://solved.ac/ein1013) 
-
+<br/><br/><br/>
+  
+    
+#### 🖥️ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzachips&show_icons=true&theme=radical)
-
+  
+<br/><br/>
+  
+#### 🔠Used Languages in Github Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzachips&layout=compact)](https://github.com/gamzachips/github-readme-stats)
 
+<br/><br/>
+
+#### 🏅BOJ Solved Tier
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ein1013)](https://solved.ac/ein1013) 
+  
+
 </div>
+
+
 
 <!--
 **gamzachips/gamzachips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
