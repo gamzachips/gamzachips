@@ -2,11 +2,15 @@
 
 <div align=center>
 
-## 🎮gamzachips🎮 
+
+###  🎮 gamzachips 🎮 
+
+</br>
+
+####  Hi! My name is Jiwon Choi.
+####  I'm studying to become a game programmer
   
 <br/>
-
-##### I'm studying to become a game programmer
   
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=black"/>
 
@@ -20,12 +24,12 @@
 #### 🖥️ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzachips&show_icons=true&theme=radical)
   
-<br/><br/>
+<br/>
   
 #### 🔠Used Languages in Github Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzachips&layout=compact)](https://github.com/gamzachips/github-readme-stats)
 
-<br/><br/>
+<br/>
 
 #### 🏅BOJ Solved Tier
 [![Solved.ac
