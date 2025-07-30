@@ -9,14 +9,6 @@
   
 <br/>
   
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=plastic&logo=unrealengine&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"/>
-
-<br/><br/><br/>
-  
     
 #### 🖥️ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzachips&show_icons=true&theme=radical)
