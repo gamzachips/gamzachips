@@ -5,10 +5,7 @@
 
 ###  🎮 gamzachips 🎮 
 
-</br>
-
-####  Hi! My name is Jiwon Choi.
-####  I'm studying to become a game programmer
+게임을 만들고 싶어요.
   
 <br/>
   
