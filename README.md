@@ -2,10 +2,7 @@
 
 <div align=center>
 
-
-###  🎮 gamzachips 🎮 
-
-게임을 만들고 싶어요.
+Welcome to my page
   
 <br/>
   
